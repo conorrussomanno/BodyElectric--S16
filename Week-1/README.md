@@ -45,4 +45,12 @@ Week 1 (1/25/16) -- Introductions, Syllabus Review, Project Review, Intro to Bio
 
 * Start thinking about what you want to do this semeste for your Final Project. You'll want something to bring to your team members next week.
 
+-- 
+
+* Submit links to your personal blog and Github account as responses to [the following issue](https://github.com/conorrussomanno/BodyElectric--S16/issues/1) I created on the Course Github Repo.
+
+--
+
+
+
 
