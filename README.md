@@ -115,7 +115,7 @@ If you have to be absent, please let me know before class.
 * [Thync](http://www.thync.com/)
 * [Neurolaunch](http://neurolaunch.com/) -- "The World's First Neuroscience Startup Accelerator"
 
-**Related Meetups, Groups, Conferences, etc.**
+**Related Hackathons, Meetups, Groups, Conferences, etc.**
 
 * [NeuroTechNYC Meetup Group](http://www.meetup.com/NeuroTechNYC/)
 * [NeuroTechX](http://neurotechx.com/) International Neurotech Network ([Slack signup](https://neurotechx.herokuapp.com/))
@@ -126,6 +126,7 @@ If you have to be absent, please let me know before class.
 * [Bots & Brains Meetup Group](http://www.meetup.com/Bots-and-Brains-NYC/)
 * [Futurism NYC Meetup Group](http://www.meetup.com/futurismnyc/)
 * [NYC Machine Learning Meetup Group](http://www.meetup.com/NYC-Machine-Learning/)
+* [CodeNeuro](http://codeneuro.org/)
 
 
 
