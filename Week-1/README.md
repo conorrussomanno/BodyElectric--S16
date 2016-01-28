@@ -20,7 +20,7 @@ Week 1 (1/25/16) -- Introductions, Syllabus Review, Project Review, Intro to Bio
 ### Helpful Resources
 
 * [Course Syllabus!](https://github.com/conorrussomanno/BodyElectric--S16)
-* 
+
 
 ### HW for next week (finish before 2/1/16 @ 6:30pm)
 --
@@ -30,6 +30,8 @@ Week 1 (1/25/16) -- Introductions, Syllabus Review, Project Review, Intro to Bio
 	* [(19 min) New Bionics Let Us Run, Climb and Dance | Hugh Herr | TED Talks](https://www.youtube.com/watch?v=CDsNZJTWw0w)
 	* [(9 min) The Bionic Man | Robotica | The New York Times](https://www.youtube.com/watch?v=KPhkVPNKtVA)
 	* (5 min each) OpenBCI Kickstarter Videos/Campaigns ([1](https://www.kickstarter.com/projects/openbci/openbci-an-open-source-brain-computer-interface-fo/description) & [2](https://www.kickstarter.com/projects/openbci/openbci-biosensing-for-everybody/description))
+	* [(6 min) Greg Gage - Human Human Interface TED](https://www.ted.com/talks/greg_gage_how_to_control_someone_else_s_arm_with_your_brain?language=en)
+	* [(1 min) EMG Instruments -- Terry Crews Old Spice High Endurance Commercial](https://www.youtube.com/watch?v=yZ15vCGuvH0)
 
 --
 
@@ -43,7 +45,7 @@ Week 1 (1/25/16) -- Introductions, Syllabus Review, Project Review, Intro to Bio
 
 -- 
 
-* Start thinking about what you want to do this semeste for your Final Project. You'll want something to bring to your team members next week.
+* Start thinking about what you want to do for your Final Project. You'll want some ideas to bring to your team members next week.
 
 -- 
 
