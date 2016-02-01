@@ -58,9 +58,12 @@ The human body is comprised of many complex systems, all of which are governed b
 1. **Week 1 (1/25/16)** -- Introductions, Syllabus Review, Project Review, Intro to Biosensing, Intro to OpenBCI.
 2. **Week 2 (2/1/16)** -- Group Meeting #1, Ultracortex Assembly, Fire Up The OpenBCI GUI, Initial Project Conversations w/ Group
 3. **Week 3 (2/8/16)** -- Harnessing the [OpenBCI GUI](https://github.com/OpenBCI/OpenBCI_Processing), Alpha Throttle, EMG Symphony, Neuro-Powered Robotics, [SSVEP](https://en.wikipedia.org/wiki/Steady_state_visually_evoked_potential) neuromodulation.
-4. **Week 4 (2/15/16)** -- **Field Trip** -- OpenBCI HQ ([NeuroTechNYC](http://www.meetup.com/NeuroTechNYC/) Meetup) -- **Mid-Course Final Project Update, Prototype, & Documentation Due**
-5. **Week 5 (2/22/16)** -- Neurostimulation Experimentation (tDCS & Thync), Neuroethics Mini-Lecture, In-Class Work Day
-6. **Week 6 (2/29/16)** -- Final Project Presentations (Show & Tell Style)
+
+	***-- No Class - President's Day (2/15/16) --***
+
+4. **Week 4 (2/22/16)** -- **Field Trip** -- OpenBCI HQ ([NeuroTechNYC](http://www.meetup.com/NeuroTechNYC/) Meetup) -- **Mid-Course Final Project Update, Prototype, & Documentation Due**
+5. **Week 5 (2/29 /16)** -- Neurostimulation Experimentation (tDCS & Thync), Neuroethics Mini-Lecture, In-Class Work Day
+6. **Week 6 (3/7/16)** -- Final Project Presentations (Show & Tell Style)
  
 ###Grading
 
